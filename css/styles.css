@@ -1,0 +1,19 @@
+body {
+    background-color:ghostwhite;
+}
+
+h1 {
+    color:teal
+}
+
+h3 {
+    color:teal
+}
+
+hr {border-style:none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 30%;
+}
+img {height:auto;}
