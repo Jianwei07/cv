@@ -1,20 +1,27 @@
 body {
     margin: 0;
+    text-align: center;
+    font-family:
 }
-
 
 h1 {
-    display: block;
-    font-size: 2em;
-    margin-block-start: 0.67em;
-    margin-block-end: 0.67em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
 }
 
+.header2{
+    text-align: center;
+    color: #45b29a;
+    font-size: 180%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+    
 .topbox {
     background-color:#B7C4CF ;
+    position: relative;
+    padding-top:50px;
+
 }
 
 .midbox {
@@ -29,5 +36,11 @@ h1 {
     height: 200px;
 }
 
-
+.topcloud {
+    position: absolute;
+    right: 20px;
+}
+.bottomcloud {
+    position: absolute;
+}
 
