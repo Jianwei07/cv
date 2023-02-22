@@ -1,7 +1,7 @@
 body {
     margin: 0;
     text-align: center;
-    font-family:
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 
 .header2{
     text-align: center;
-    color: #45b29a;
+    color: #967E76;
     font-size: 180%;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 
