@@ -1,13 +1,26 @@
 body {
-    margin: 0;
-    text-align: center;
+    background: #ffffff;
+    color: #898989;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+  }
 
-h1 {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-   
-}
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0;
+  }
+  
+  h2 {
+    color: #292929;
+    font-weight: 600;
+  }
+  
 
 .header2{
     text-align: center;
@@ -27,13 +40,23 @@ h1 {
 .midbox {
     background-color:#EEE3CB;
     width: auto;
-    height: 200px;
+    height: auto;
+}
+.code-img {
+    width:25%;
+    float:left;
+    margin-right: 30px;
+}
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
 }
 
 .bottombox {
     background-color:#D7C0AE;
     width:auto;
-    height: 200px;
+    height: auto;
 }
 
 .topcloud {
